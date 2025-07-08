@@ -1,0 +1,22 @@
+22/tcp                        ALLOW       Anywhere
+80/tcp                        ALLOW       Anywhere
+443/tcp                      ALLOW       Anywhere
+5000                            ALLOW       Anywhere
+22                                ALLOW       138.197.11.134
+8081/tcp                    ALLOW       Anywhere
+8000/tcp                    ALLOW       Anywhere
+8080/tcp                    ALLOW       Anywhere
+9876/tcp                    ALLOW       Anywhere
+5000/tcp                    ALLOW       Anywhere
+Nginx Full                   ALLOW       Anywhere
+
+5000 (v6)                     ALLOW       Anywhere (v6)
+22/tcp (v6)                  ALLOW       Anywhere (v6)
+8081/tcp (v6)              ALLOW       Anywhere (v6)
+8000/tcp (v6)              ALLOW       Anywhere (v6)
+80/tcp (v6)                   ALLOW       Anywhere (v6)
+443/tcp (v6)                 ALLOW       Anywhere (v6)
+8080/tcp (v6)               ALLOW       Anywhere (v6)
+9876/tcp (v6)               ALLOW       Anywhere (v6)
+5000/tcp (v6)                ALLOW       Anywhere (v6)
+Nginx Full (v6)               ALLOW       Anywhere (v6)
